@@ -1,0 +1,5 @@
+/* 公共样式修改 */
+*{margin:0;padding:0}
+.c-align-center{position:relative;left:50%;transform:translateX(-50%);}
+
+
